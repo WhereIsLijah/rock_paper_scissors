@@ -56,3 +56,7 @@ function game() {
   finalScore = `Player Score: ${playerScore(playScore)} : AI Score: ${aiScore(cScore)}`;
   document.getElementById("test1").innerHTML = finalScore;
 }
+
+//Check for upper and lowercase
+//Front-end
+
